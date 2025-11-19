@@ -6,7 +6,7 @@ require(`@/plugins/clipboard`)
 require(`@/plugins/base64`)
 require(`@/plugins/axios`)
 require(`@/plugins/device`)
-require(`@/plugins/particles`)
+// require(`@/plugins/particles`)
 
 
 import 'element-ui/lib/theme-chalk/index.css'
